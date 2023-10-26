@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+    padding-left: 20px;;
+}
+a:hover{
+    text-decoration-line: underline;
+    text-decoration-thickness: 3px;
+    color: black;
+}
+header{
+    border: 3px solid gold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.a1{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.a1:hover{
+    background-color: darkgreen;
+}
